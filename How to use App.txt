@@ -1,0 +1,12 @@
+How to use the app
+
+The app is pretty easy to use
+
+After launching the app you land on the home page where you can see two things
+
+1) A text field where you need to enter the task you want to revise.
+2) A date picker from which you can select the date on which you completed the task you mentioned in the above text field.
+
+After filling all the information click on PLAN MY REVISION button which will automatically plan your revision schedule.
+
+Below you will see three buttons named Notify First, Notify Second and Notify Third click on them one by one to add your schedule to your calendar.
