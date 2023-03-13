@@ -38,4 +38,7 @@ After filling all the information click on PLAN MY REVISION button which will au
 
 Below you will see three buttons named Notify First, Notify Second and Notify Third click on them one by one to add your schedule to your calendar.
 
-*[Download app](https://github.com/gsamansharma/1247-Revision-Planner/blob/master/release/1247-Revision-Planner.apk?raw=true)*
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/gsamansharma/1247-Revision-Planner/blob/master/release/1247-Revision-Planner.apk?raw=true)
+
+[![Install App](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Install App using Amazon App Store")](https://www.amazon.com/dp/B0BR62F8VN)
+
